@@ -1,0 +1,20 @@
+
+services:
+  - type: web
+    plan: free
+    name: Todo
+    env: python
+    buildCommand: pip install -U -r requirements.txt
+    startCommand: python3 اسم الملف 
+    region: frankfurt
+    envVars:
+      - key: اسم فار 
+        sync: false
+      - key: اسم فار 
+        sync: false
+      - key: اسم فار
+        sync: false
+      - key: اسم فار
+        sync: false
+      - key: اسم فار
+        sync: false
