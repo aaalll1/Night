@@ -12,6 +12,8 @@ services:
         sync: false
       - key:  ايبي هاش
         sync: false
+      - key:   يوزر البوت
+        sync: false
       - key:   ترمكس
         sync: false
       - key:   توكن
