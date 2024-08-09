@@ -8,13 +8,13 @@ services:
     startCommand: python3 اسم الملف 
     region: frankfurt
     envVars:
-      - key: اسم فار 
+      - key: توكن 
         sync: false
-      - key: اسم فار 
+      - key: يوزر البوت بدون @ 
         sync: false
-      - key: اسم فار
+      - key: ترمكس
         sync: false
-      - key: اسم فار
+      - key:  اب ايدي
         sync: false
-      - key: اسم فار
+      - key:  ايبي هاش
         sync: false
