@@ -5,7 +5,7 @@ services:
     name: Todo
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 اسم الملف 
+    startCommand: python3 sedthon.py 
     region: frankfurt
     envVars:
       - key: توكن 
