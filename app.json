@@ -3,13 +3,13 @@
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
     "logo" : "https://graph.org/file/1e59aa6826c645410337e.jpg",
     "stack": "container",
-    "repository": "https://github.com/Cmmox/Night",
+    "repository": "https://github.com/aaalll1/Night",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/Cmmox/Night",
+    "website": "https://github.com/aaalll1/Night",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
